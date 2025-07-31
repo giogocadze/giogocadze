@@ -38,16 +38,22 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 **Styling Tools**:  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
+**Version Control & Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
 ---
 
 ## 🚀 Projects
 
-### 🎵 Music Streaming Web App
+### 🎵 Music Streaming Website
 
-- Built a Spotify-like UI with custom audio player  
-- Developed features like playlists, seek, volume control  
-- Integrated state logic using **Recoil**, **Zustand**, and **middleware**  
-- Mobile-first, responsive layout with **Tailwind CSS** and optimized performance
+- Developed the frontend of a full-featured music streaming platform inspired by Spotify  
+- Implemented secure user authentication flows, enabling personalized user experiences  
+- Built a dynamic music player with playlist management, track seeking, and volume control  
+- Utilized middleware and Recoil for efficient and scalable state management across the app  
+- Ensured a responsive, mobile-first design for seamless usability across devices  
+- Took ownership of 50% of project tasks, leading core development features and collaborating closely with the team to deliver a polished product  
 
 ---
 
@@ -85,4 +91,4 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 ## 🕹️ Fun Extras
 
 ### 🟡 Pacman GitHub Contribution Graph  
-![Pacman](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)  
+![Pacman](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
