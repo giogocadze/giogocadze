@@ -81,5 +81,5 @@ My main strengths lie in **React**, **Next.js**  with a deep interest in buildin
 
 ## 🕹️ Fun Extras
 
-### 🟡 Snake GitHub Contribution Graph  
+### 🟣 Snake GitHub Contribution Graph  
 ![Snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
