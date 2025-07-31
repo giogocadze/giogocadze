@@ -24,15 +24,19 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
 
 **Frameworks & Libraries**:  
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
 
 **State Management**:  
 ![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=flat-square)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=flat-square)
 
-**Styling**:  
+**Styling Tools**:  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
@@ -43,8 +47,8 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 
 - Built a Spotify-like UI with custom audio player  
 - Developed features like playlists, seek, volume control  
-- Integrated state logic using **Recoil** and **middleware**  
-- Mobile-first, responsive layout with optimized performance
+- Integrated state logic using **Recoil**, **Zustand**, and **middleware**  
+- Mobile-first, responsive layout with **Tailwind CSS** and optimized performance
 
 ### 💼 Portfolio (Coming Soon)
 
@@ -88,4 +92,4 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 ## 🕹️ Fun Extras
 
 ### 🟡 Pacman GitHub Contribution Graph  
-![Pacman](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Pacman](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)  
