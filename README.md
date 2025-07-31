@@ -7,7 +7,6 @@
 I'm a dedicated **Front-End Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
 My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in full-stack development.
 
-- 🔭 Currently working on: A Spotify-style **Music Streaming App**
 - 🎓 Studying CS at **Tbilisi State University**
 - 🚀 Novatori Full-Stack Bootcamp Graduate
 - 🧠 Passionate about clean UI, smooth transitions, and real-time interactivity
@@ -49,12 +48,6 @@ My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep inter
 - Developed features like playlists, seek, volume control  
 - Integrated state logic using **Recoil**, **Zustand**, and **middleware**  
 - Mobile-first, responsive layout with **Tailwind CSS** and optimized performance
-
-### 💼 Portfolio (Coming Soon)
-
-- Featuring all of Giorgi’s best work  
-- Interactive, modern, and built with **Next.js**  
-- Will include code samples, previews, and live demos
 
 ---
 
