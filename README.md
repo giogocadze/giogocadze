@@ -1,60 +1,91 @@
-<h1>Hi there, I'm Giorgi 👋</h1>
-<p>Front-End Developer | React & Next.js | Tbilisi 🇬🇪</p>
+<h1 align="center">Hi there, I'm Giorgi! 👋</h1>
 
 ---
 
-### 📌 About Me
+## 📄 About Me
 
-I'm a passionate **Front-End Developer** based in **Tbilisi, Georgia**, focused on crafting responsive and user-friendly web applications. I specialize in building beautiful interfaces using **React**, **Next.js**, and **SCSS**. Currently, I'm working on a music streaming app with a custom audio player and clean UI transitions.
+I'm a dedicated **Front-End Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
+My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in full-stack development.
 
-- 🔭 Currently working on: Music Streaming App
-- 🎓 Studying CS @ Tbilisi State University
-- 🎯 Novatori Bootcamp Graduate (Full Stack)
-- 🌱 Learning: API integration, state management, backend basics
-- ⚡ Fun fact: I care way too much about pixel alignment 😄
-
----
-
-### 🛠 Tech Stack
-
-#### 🖥️ Frontend Development
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Styling & UI:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Responsive Design](https://img.shields.io/badge/Responsive-%20Design-green?style=flat-square)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+- 🔭 Currently working on: A Spotify-style **Music Streaming App**
+- 🎓 Studying CS at **Tbilisi State University**
+- 🚀 Novatori Full-Stack Bootcamp Graduate
+- 🧠 Passionate about clean UI, smooth transitions, and real-time interactivity
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 Tech Stack
+
+### 🖥️ Frontend Development
+
+**Languages & Markup**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+
+**Frameworks & Libraries**:  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+
+**State Management**:  
+![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=flat-square)
+
+**Styling**:  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+---
+
+## 🚀 Projects
+
+### 🎵 Music Streaming Web App
+
+- Built a Spotify-like UI with custom audio player  
+- Developed features like playlists, seek, volume control  
+- Integrated state logic using **Recoil** and **middleware**  
+- Mobile-first, responsive layout with optimized performance
+
+### 💼 Portfolio (Coming Soon)
+
+- Featuring all of Giorgi’s best work  
+- Interactive, modern, and built with **Next.js**  
+- Will include code samples, previews, and live demos
+
+---
+
+## 👥 Leadership & Team Collaboration
+
+**Team Lead & Front-End Developer**  
+📌 Novatori Bootcamp Projects (2024–2025)
+
+- Collaborated on real-world team projects  
+- Managed workflows and synced daily using **Jira** and **Monday.com**  
+- Reviewed pull requests and helped juniors debug UI logic  
+- Contributed to 50%+ of core feature development
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: gotsadzegiorgi85@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/giorgi-gotsadze-2183b8363)  
+- 💻 [GitHub](https://github.com/giogocadze)
+
+> Let’s build something amazing together! 🚀
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giogocadze&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giogocadze&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=giogocadze&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giogocadze&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 🕹️ Fun Extras
 
-- 📧 Email: gotsadzegiorgi85@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/giorgi-gotsadze-2183b8363)  
-- 💻 [GitHub](https://github.com/giogocadze)
-
----
-
-### 🙌 Thanks for visiting!
+### 🟡 Pacman GitHub Contribution Graph  
+![Pacman](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
