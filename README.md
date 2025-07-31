@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Giorgi 👋</h1>
-<p align="center">Front-End Developer | React & Next.js | Tbilisi 🇬🇪</p>
+<h1>Hi there, I'm Giorgi 👋</h1>
+<p>Front-End Developer | React & Next.js | Tbilisi 🇬🇪</p>
 
 ---
 
