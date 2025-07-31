@@ -79,13 +79,6 @@ My main strengths lie in **React**, **Next.js**  with a deep interest in buildin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giogocadze&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giogocadze&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 🕹️ Fun Extras
