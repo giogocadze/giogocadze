@@ -5,7 +5,7 @@
 ## 📄 About Me
 
 I'm a dedicated **Front-End Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
-My main strengths lie in **React**, **Next.js**, and **SCSS**, with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in full-stack development.
+My main strengths lie in **React**, **Next.js**  with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in full-stack development.
 
 - 🎓 Studying CS at **Tbilisi State University**
 - 🚀 Novatori Full-Stack Bootcamp Graduate
