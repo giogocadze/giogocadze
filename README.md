@@ -48,7 +48,7 @@ My main strengths lie in **React**, **Next.js**  with a deep interest in buildin
 
 ### 🎵 Music Streaming Website
 
-- Developed the frontend of a full-featured music streaming platform inspired by Spotify  
+- Developed the frontend of a full-featured music streaming platform 
 - Implemented secure user authentication flows, enabling personalized user experiences  
 - Built a dynamic music player with playlist management, track seeking, and volume control  
 - Utilized middleware and Recoil for efficient and scalable state management across the app  
