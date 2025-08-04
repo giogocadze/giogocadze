@@ -45,8 +45,8 @@ My main strengths lie in **React** and **Next.js**, with a deep interest in buil
 ### 📱 Mobile Development
 
 **Cross-Platform & Native**  
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
+
 
 ---
 
