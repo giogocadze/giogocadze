@@ -58,7 +58,7 @@ My main strengths lie in **React** and **Next.js**, with a deep interest in buil
 - Implemented secure user authentication flows with Supabase  
 - Built a dynamic music player with playlist management, seek slider, and volume control  
 - Used Zustand and Recoil for scalable and efficient state management  
-- Designed fully responsive, mobile-first UI using SCSS and Tailwind CSS  
+- Designed fully responsive, mobile-first UI using SCSS 
 - Led core development features and collaborated closely on 50%+ of project tasks
 
 ---
