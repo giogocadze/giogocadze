@@ -4,7 +4,7 @@
 
 ## 📄 About Me
 
-I'm a dedicated **Front-End Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
+I'm a dedicated **Front-End & IOS Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
 My main strengths lie in **React** and **Next.js**, with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in SoftWare development.
 
 - 🎓 Studying CS at **Tbilisi State University**
