@@ -1,91 +1,99 @@
-<h1>Hi there, I'm Giorgi! 👋</h1>
+# Giorgi Gotsadze
+Front-End Developer
+
+I build scalable, user-focused interfaces using modern JavaScript frameworks, with a strong emphasis on clean architecture, performance, and maintainable UI systems.
 
 ---
 
-## 📄 About Me
+## About Me
 
-I'm a dedicated **Front-End & IOS Developer** based in **Tbilisi, Georgia**, focused on crafting beautiful, responsive, and high-performance web applications.  
-My main strengths lie in **React** and **Next.js**, with a deep interest in building smooth UI/UX experiences. I’m always learning, growing, and taking on new challenges in SoftWare development.
+I am a Front-End Developer based in Tbilisi, Georgia, focused on building reliable, production-ready web interfaces with React and Next.js.  
+My work centers on clean code, reusable components, and well-structured front-end systems that scale with both product and team growth.
 
-- 🎓 Studying CS at **Tbilisi State University**
-- 🚀 Novatori Full-Stack Bootcamp Graduate
-- 🧠 Passionate about clean UI, smooth transitions, and real-time interactivity
-
----
-
-## 🛠 Tech Stack
-
-### 🖥️ Frontend Web Development
-
-**Languages & Markup**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-
-**State Management**  
-![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=flat-square)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=flat-square)
-
-**Styling & Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-
-**Version Control & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+I care deeply about UI/UX quality, performance, and accessibility, and I enjoy collaborating with designers and engineers to turn complex 
+requirements into clear, maintainable solutions. I continuously refine my skills through real projects, code reviews, and learning modern best practices.
 
 ---
 
-### 📱 Mobile Development
+## Tech Stack
 
-**Cross-Platform & Native**  
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
+### Front-End
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
 
+### Styling & UI
+- CSS / SCSS
+- Tailwind CSS
+- Responsive & mobile-first layouts
+- Component-based styling
 
----
+### State & Forms
+- Zustand
+- Recoil
+- React Hook Form
 
-## 🚀 Projects
+### Tooling & Workflow
+- Git & GitHub
+- Code reviews & pull requests
+- Modular project structure
+- ESLint / Prettier
 
-### 🎵 Music Streaming Website
-
-- Developed the frontend of a full-featured music streaming platform  
-- Implemented secure user authentication flows with Supabase  
-- Built a dynamic music player with playlist management, seek slider, and volume control  
-- Used Zustand and Recoil for scalable and efficient state management  
-- Designed fully responsive, mobile-first UI using SCSS 
-- Led core development features and collaborated closely on 50%+ of project tasks
-
----
-
-## 👥 Leadership & Team Collaboration
-
-**Team Lead & Front-End Developer**  
-📌 Novatori Bootcamp Projects (2024–2025)
-
-- Led multiple team projects with strong frontend architecture  
-- Managed workflows using **Jira**  
-- Reviewed code, handled pull requests
-- Ensured code quality and helped debug tricky UI and logic issues
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: gotsadzegiorgi85@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/giorgi-gotsadze-2183b8363)  
-- 💻 [GitHub](https://github.com/giogocadze)
-
-> Let’s build something amazing together! 🚀
+### Mobile (Additional Experience)
+- Swift
+- SwiftUI
+- MVVM & Clean Architecture concepts
+- React Native (cross-platform fundamentals)
 
 ---
 
-## 🕹️ Fun Extras
+## What I Work On
 
-### 🟣 Snake GitHub Contribution Graph  
-![Snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+- Component-driven front-end architecture
+- Reusable UI and design systems
+- Responsive and accessible interfaces
+- Performance-aware rendering and state management
+- Clean project structure and predictable data flow
+- Bridging design intent with engineering constraints
+
+---
+
+## Projects
+
+### Music Streaming Web Application
+**Role:** Front-End Developer  
+**Tech:** React, Next.js, TypeScript, Zustand, Recoil, Supabase, SCSS
+
+A full-featured music streaming interface focused on usability and performance.
+
+- Built a custom audio player with playlist support, seek control, and volume management
+- Implemented authentication flows and protected routes using Supabase
+- Designed a scalable state management approach for player and user data
+- Delivered a responsive, mobile-first UI
+- Contributed to over half of the core front-end features in a team environment
+
+---
+
+## Professional Values
+
+- Clean, readable code over clever solutions
+- Predictable architecture and clear responsibility boundaries
+- Reusability and consistency in UI components
+- Performance as a feature, not an afterthought
+- Respectful collaboration through reviews and shared ownership
+
+---
+
+## Contact
+
+- GitHub: https://github.com/giogocadze
+- LinkedIn: https://linkedin.com/in/giorgi-gotsadze-2183b8363
+- Email: gotsadzegiorgi85@gmail.com
+
+- ---
+
+## Activity
+
+![GitHub Contribution Graph](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
