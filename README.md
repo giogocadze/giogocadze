@@ -8,11 +8,7 @@ I build scalable, user-focused interfaces using modern JavaScript frameworks, wi
 
 ## About Me
 
-I am a Front-End Developer based in Tbilisi, Georgia, focused on building reliable, production-ready web interfaces with React and Next.js.  
-My work centers on clean code, reusable components, and well-structured front-end systems that scale with both product and team growth.
-
-I care deeply about UI/UX quality, performance, and accessibility, and I enjoy collaborating with designers and engineers to turn complex  
-requirements into clear, maintainable solutions. I continuously refine my skills through real projects, code reviews, and learning modern best practices.
+I am a Front-End Developer based in Tbilisi, Georgia, focused on building reliable, production-ready web interfaces with React and Next.js. My work centers on clean code, reusable components, and well-structured front-end systems that scale with both product and team growth. I care deeply about UI/UX quality, performance, and accessibility, and I enjoy collaborating with designers and engineers to turn complex  requirements into clear, maintainable solutions. I continuously refine my skills through real projects, code reviews, and learning modern best practices.
 
 ---
 
