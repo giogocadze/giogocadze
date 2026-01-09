@@ -1,5 +1,6 @@
 <h1># 👋 Hi, I’m Giorgi Gotsadze </h1>
-**Front-End Developer**
+
+<h2>Front-End Developer</h2>
 
 I build scalable, user-focused interfaces using modern JavaScript frameworks, with a strong emphasis on clean architecture, performance, and maintainable UI systems.
 
@@ -31,8 +32,6 @@ requirements into clear, maintainable solutions. I continuously refine my skills
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
-- Responsive & mobile-first layouts  
-
 ---
 
 ### State & Forms
@@ -54,8 +53,6 @@ requirements into clear, maintainable solutions. I continuously refine my skills
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?logo=swift&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-
-- MVVM & Clean Architecture concepts  
 
 ---
 
