@@ -1,4 +1,4 @@
-<h1># 👋 Hi, I’m Giorgi Gotsadze <h1>
+<h1># 👋 Hi, I’m Giorgi Gotsadze </h1>
 **Front-End Developer**
 
 I build scalable, user-focused interfaces using modern JavaScript frameworks, with a strong emphasis on clean architecture, performance, and maintainable UI systems.
