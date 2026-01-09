@@ -1,5 +1,5 @@
-👋 Hi, I’m Giorgi Gotsadze
-Front-End Developer
+<h1># 👋 Hi, I’m Giorgi Gotsadze <h1>
+**Front-End Developer**
 
 I build scalable, user-focused interfaces using modern JavaScript frameworks, with a strong emphasis on clean architecture, performance, and maintainable UI systems.
 
@@ -18,42 +18,42 @@ requirements into clear, maintainable solutions. I continuously refine my skills
 ## Tech Stack
 
 ### Front-End
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Static%20Typing-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-UI%20Library-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 
 ---
 
 ### Styling & UI
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-Preprocessor-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Utility--First-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
 - Responsive & mobile-first layouts  
-  
 
 ---
 
 ### State & Forms
-![Zustand](https://img.shields.io/badge/Zustand-State%20Management-000000?style=flat-square&logo=react&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-Atomic%20State-3578E5?style=flat-square&logo=react&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=flat-square)
+![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=flat-square)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=flat-square)
 
 ---
 
 ### Tooling & Workflow
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-Formatting-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black&style=flat-square)
 
 ---
 
 ### Mobile (Additional Experience)
-![Swift](https://img.shields.io/badge/Swift-iOS-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-Declarative%20UI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-Cross--Platform-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?logo=swift&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 
 - MVVM & Clean Architecture concepts  
 
@@ -97,13 +97,11 @@ A full-featured music streaming interface focused on usability and performance.
 ---
 
 ## Contact
-
-![GitHub](https://img.shields.io/badge/GitHub-giogocadze-181717?style=flat-square&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgi%20Gotsadze-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-gotsadzegiorgi85%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)
+![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)
 
 ---
 
 ## Activity
-
-![GitHub Contribution Graph](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
