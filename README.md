@@ -37,11 +37,12 @@ I am a Front-End  & IOS Developer based in Tbilisi, Georgia, focused on building
 
 ---
 
-### Tooling & Workflow
+### Tooling, Backend & Auth
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-square)
+![Convex](https://img.shields.io/badge/-Convex-111111?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black&style=flat-square)
 
 ---
 
