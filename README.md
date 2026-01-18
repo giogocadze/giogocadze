@@ -68,7 +68,7 @@ I am a Front-End  & IOS Developer based in Tbilisi, Georgia, focused on building
 
 ### Music Streaming Web Application
 **Role:** Front-End Developer  
-**Tech:** React, Next.js, TypeScript, Zustand, Recoil, Supabase, SCSS
+**Tech:** React, Next.js, TypeScript, Zustand, Supabase, SCSS
 
 A full-featured music streaming interface focused on usability and performance.
 
