@@ -1,8 +1,9 @@
 <img
   align="right"
   width="160"
-  src="https://media.giphy.com/media/l0HlQ7LRal5G4w9oY/giphy.gif"
+  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
 />
+
 
 
 # 👋 Hi, I’m Giorgi Gotsadze
