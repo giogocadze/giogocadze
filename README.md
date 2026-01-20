@@ -107,26 +107,13 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 ## Activity 👾
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=18
-    &pause=800
-    &color=58A6FF
-    &center=true
-    &vCenter=true
-    &width=600
-    &lines=Building+features...;Breaking+things...;Fixing+them...;Shipping+again."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+features...;Breaking+things...;Fixing+them...;Shipping+again." />
 </p>
 
 <br/>
 
 <p align="center">
-  <img
-    src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
