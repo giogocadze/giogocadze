@@ -1,14 +1,16 @@
-<h1># 👋 Hi, I’m Giorgi Gotsadze </h1>
+# 👋 Hi, I’m Giorgi Gotsadze
 
-<h2>Front-End Developer</h2>
+### Front-End Engineer | React & Next.js
 
-I build scalable, user-focused interfaces using modern JavaScript frameworks, with a strong emphasis on clean architecture, performance, and maintainable UI systems.
+I build scalable, user-focused web and mobile interfaces with a strong emphasis on clean architecture, performance, and maintainable UI systems.
 
 ---
 
 ## About Me
 
-I am a Front-End  & IOS Developer based in Tbilisi, Georgia, focused on building reliable, production-ready web interfaces. My work centers on clean code and well-structured front-end systems that scale with both product and team growth. I care deeply about UI/UX quality, performance, and accessibility, and I enjoy collaborating with designers and engineers to turn complex  requirements into clear, maintainable solutions. I continuously refine my skills through real projects  and focus on learning modern best practices.
+I am a Front-End & iOS Developer based in Tbilisi, Georgia, focused on building production-ready web and mobile applications using React, Next.js, and SwiftUI. My work centers on creating scalable front-end architectures, reusable component systems, and predictable state management that support long-term product growth.
+
+I care deeply about UI/UX quality, accessibility, and performance, and I enjoy collaborating closely with designers and backend engineers to translate complex product requirements into clean, maintainable solutions. I continuously refine my skills through real-world projects and modern best practices.
 
 ---
 
@@ -26,21 +28,22 @@ I am a Front-End  & IOS Developer based in Tbilisi, Georgia, focused on building
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
 
-### State & Forms
+### State, Data & Forms
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=flat-square)
 ![Recoil](https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=flat-square)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=flat-square)
 
 ---
 
-### Tooling, Backend & Auth
+### Backend, Auth & Tooling
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square)
-![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-square)
 ![Convex](https://img.shields.io/badge/-Convex-111111?style=flat-square)
+![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
@@ -55,37 +58,52 @@ I am a Front-End  & IOS Developer based in Tbilisi, Georgia, focused on building
 
 ## What I Work On
 
-- Component-driven front-end architecture  
-- Reusable UI and design systems  
-- Responsive and accessible interfaces  
-- Performance-aware rendering and state management  
-- Clean project structure and predictable data flow  
-- Bridging design intent with engineering constraints  
+- Scalable front-end architecture and component-driven design
+- Reusable UI systems and design system consistency
+- Performance-aware rendering and state management
+- Responsive and accessible interfaces
+- Clean project structure and predictable data flow
+- Bridging design intent with engineering constraints
+- Collaboration through code reviews and shared ownership
 
 ---
 
 ## Projects
 
-### Music Streaming Web Application
+### 🎵 Music Streaming Web Application
 **Role:** Front-End Developer  
 **Tech:** React, Next.js, TypeScript, Zustand, Supabase, SCSS
 
-A full-featured music streaming interface focused on usability and performance.
+A Spotify-like music streaming platform focused on performance, usability, and scalable UI architecture.
 
-- Built a custom audio player with playlist support, seek control, and volume management  
-- Implemented authentication flows and protected routes using Supabase  
-- Designed a scalable state management approach for player and user data  
-- Delivered a responsive, mobile-first UI  
-- Contributed to over half of the core front-end features in a team environment  
+- Built a custom audio player with playlist management, seek controls, volume handling, and smooth track transitions
+- Designed global state management for playback, user sessions, and playlists using Zustand
+- Implemented authentication flows, protected routes, and user-specific data using Supabase
+- Delivered a responsive, mobile-first UI with consistent component patterns
+- Took ownership of ~50% of the front-end codebase in a collaborative team environment
+
+---
+
+## Experience
+
+### Front-End Developer | Project-Based & Team Work (2024 – Present)
+
+- Worked on multiple production-oriented web applications using React and Next.js
+- Collaborated with designers and backend developers to deliver features end-to-end
+- Refactored legacy components to improve maintainability and performance
+- Reviewed pull requests and contributed to consistent coding standards
+- Focused on accessibility, performance optimization, and clean architecture
 
 ---
 
 ## Professional Values
 
-- Clean, readable code over clever solutions  
-- Predictable architecture and clear responsibility boundaries  
-- Reusability and consistency in UI components  
-- Performance as a feature, not an afterthought  
+- Clean, readable code over clever solutions
+- Predictable architecture and clear responsibility boundaries
+- Reusability and consistency in UI components
+- Performance as a feature, not an afterthought
+- Clear communication and collaborative problem-solving
+
 ---
 
 ## Contact
@@ -93,7 +111,6 @@ A full-featured music streaming interface focused on usability and performance.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/giogocadze)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/giorgi-gotsadze-2183b8363)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gotsadzegiorgi85@gmail.com)
-
 
 ---
 
