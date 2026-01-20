@@ -84,8 +84,6 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 
 ---
 
----
-
 ## Professional Values
 
 - Clean, readable code over clever solutions
