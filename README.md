@@ -108,14 +108,15 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 
 <p align="center">
   <img
-    width="260"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F2b3N2NjZtZTF2cXpxbDBrczhlNHc5NnZjdWJpM2h1dG0yaXBjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lYCDgxP6OFBruE/giphy.gif"
+    width="220"
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
   />
 </p>
 
 <p align="center">
   <i>Building, breaking, fixing, and shipping — on repeat.</i>
 </p>
+
 
 ---
 
