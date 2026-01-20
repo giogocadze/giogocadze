@@ -103,7 +103,6 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 - Clear communication and collaborative problem-solving  
 
 ---
-
 ## Activity 👾
 
 <p align="center">
@@ -117,6 +116,14 @@ A Spotify-like music streaming platform focused on performance, usability, and s
   <i>Building, breaking, fixing, and shipping — on repeat.</i>
 </p>
 
+<br/>
+
+<p align="center">
+  <img
+    src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
 
 ---
 
