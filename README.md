@@ -103,17 +103,21 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 - Clear communication and collaborative problem-solving  
 
 ---
+
 ## Activity 👾
 
 <p align="center">
   <img
-    width="220"
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=18
+    &pause=800
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Building+features...;Breaking+things...;Fixing+them...;Shipping+again."
   />
-</p>
-
-<p align="center">
-  <i>Building, breaking, fixing, and shipping — on repeat.</i>
 </p>
 
 <br/>
