@@ -84,16 +84,6 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 
 ---
 
-## Experience
-
-### Front-End Developer | Project-Based & Team Work (2024 – Present)
-
-- Worked on multiple production-oriented web applications using React and Next.js
-- Collaborated with designers and backend developers to deliver features end-to-end
-- Refactored legacy components to improve maintainability and performance
-- Reviewed pull requests and contributed to consistent coding standards
-- Focused on accessibility, performance optimization, and clean architecture
-
 ---
 
 ## Professional Values
