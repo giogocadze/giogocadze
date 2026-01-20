@@ -1,3 +1,9 @@
+<img
+  align="right"
+  width="180"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU0M2R2bTllMWI1ZGRzZjZ0NmZtaGJxbHBvaW52OWFtdTh2eG8zNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif"
+/>
+
 # 👋 Hi, I’m Giorgi Gotsadze
 
 ### Front-End Engineer | React & Next.js
@@ -11,6 +17,8 @@ I build scalable, user-focused web and mobile interfaces with a strong emphasis 
 I am a Front-End & iOS Developer based in Tbilisi, Georgia, focused on building production-ready web and mobile applications using React, Next.js, and SwiftUI. My work centers on creating scalable front-end architectures, reusable component systems, and predictable state management that support long-term product growth.
 
 I care deeply about UI/UX quality, accessibility, and performance, and I enjoy collaborating closely with designers and backend engineers to translate complex product requirements into clean, maintainable solutions. I continuously refine my skills through real-world projects and modern best practices.
+
+<br clear="right"/>
 
 ---
 
@@ -58,13 +66,13 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 ## What I Work On
 
-- Scalable front-end architecture and component-driven design
-- Reusable UI systems and design system consistency
-- Performance-aware rendering and state management
-- Responsive and accessible interfaces
-- Clean project structure and predictable data flow
-- Bridging design intent with engineering constraints
-- Collaboration through code reviews and shared ownership
+- Scalable front-end architecture and component-driven design  
+- Reusable UI systems and design system consistency  
+- Performance-aware rendering and state management  
+- Responsive and accessible interfaces  
+- Clean project structure and predictable data flow  
+- Bridging design intent with engineering constraints  
+- Collaboration through code reviews and shared ownership  
 
 ---
 
@@ -76,21 +84,36 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 A Spotify-like music streaming platform focused on performance, usability, and scalable UI architecture.
 
-- Built a custom audio player with playlist management, seek controls, volume handling, and smooth track transitions
-- Designed global state management for playback, user sessions, and playlists using Zustand
-- Implemented authentication flows, protected routes, and user-specific data using Supabase
-- Delivered a responsive, mobile-first UI with consistent component patterns
-- Took ownership of ~50% of the front-end codebase in a collaborative team environment
+- Built a custom audio player with playlist management, seek controls, volume handling, and smooth track transitions  
+- Designed global state management for playback, user sessions, and playlists using Zustand  
+- Implemented authentication flows, protected routes, and user-specific data using Supabase  
+- Delivered a responsive, mobile-first UI with consistent component patterns  
+- Took ownership of ~50% of the front-end codebase in a collaborative team environment  
 
 ---
 
 ## Professional Values
 
-- Clean, readable code over clever solutions
-- Predictable architecture and clear responsibility boundaries
-- Reusability and consistency in UI components
-- Performance as a feature, not an afterthought
-- Clear communication and collaborative problem-solving
+- Clean, readable code over clever solutions  
+- Predictable architecture and clear responsibility boundaries  
+- Reusability and consistency in UI components  
+- Performance as a feature, not an afterthought  
+- Clear communication and collaborative problem-solving  
+
+---
+
+## Activity 👾
+
+<p align="center">
+  <img
+    width="260"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F2b3N2NjZtZTF2cXpxbDBrczhlNHc5NnZjdWJpM2h1dG0yaXBjZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lYCDgxP6OFBruE/giphy.gif"
+  />
+</p>
+
+<p align="center">
+  <i>Building, breaking, fixing, and shipping — on repeat.</i>
+</p>
 
 ---
 
@@ -99,8 +122,3 @@ A Spotify-like music streaming platform focused on performance, usability, and s
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/giogocadze)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/giorgi-gotsadze-2183b8363)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:gotsadzegiorgi85@gmail.com)
-
----
-
-## Activity
-![Snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
