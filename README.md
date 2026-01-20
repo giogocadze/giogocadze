@@ -86,8 +86,6 @@ A full-featured music streaming interface focused on usability and performance.
 - Predictable architecture and clear responsibility boundaries  
 - Reusability and consistency in UI components  
 - Performance as a feature, not an afterthought  
-- Respectful collaboration through reviews and shared ownership  
-
 ---
 
 ## Contact
