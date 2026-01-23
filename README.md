@@ -92,6 +92,18 @@ Tech: React, Next.js, TypeScript, Zustand, SCSS
 - Optimized UI performance, improving interaction responsiveness and load behavior
 - Owned ~50% of the front-end codebase, contributing core features and architectural decisions
 
+
+# 🚀 Online Code Editor & Execution Platform
+
+- Built a production online IDE supporting 10 programming languages, enabling users to write and execute code directly in the browser
+- Designed a custom editor experience with VS Code–style themes and font controls, improving usability and session length
+- Implemented a secure execution pipeline with clear success/error output, supporting hundreds of executions per user without UI degradation
+- Developed user profiles and execution history, increasing repeat usage and long-term engagement
+- Launched community code sharing, filtering, and search, improving content discoverability and platform stickiness
+- Built a usage analytics dashboard, exposing execution and activity metrics to guide feature and pricing decisions
+- Implemented Free & Pro subscription tiers, gating advanced features and increasing monetization readiness
+- Designed real-time data flows to support scalable usage growth and low-latency updates as user activity increases
+
 ---
 
 ## Professional Values
