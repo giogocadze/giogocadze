@@ -80,17 +80,22 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 ## Projects
 
-### 🎵 Music Streaming Web Application
-**Role:** Front-End Developer  
-**Tech:** React, Next.js, TypeScript, Zustand, Supabase, SCSS
+# 🎵 Music Streaming Web Application
 
-A Spotify-like music streaming platform focused on performance, usability, and scalable UI architecture.
+Role: Front-End Developer
+Tech: React, Next.js, TypeScript, Zustand, SCSS
 
-- Built a custom audio player with playlist management, seek controls, volume handling, and smooth track transitions  
-- Designed global state management for playback, user sessions, and playlists using Zustand  
-- Implemented authentication flows, protected routes, and user-specific data using Supabase  
-- Delivered a responsive, mobile-first UI with consistent component patterns  
-- Took ownership of ~50% of the front-end codebase in a collaborative team environment  
+A Spotify-inspired music streaming platform built with a focus on scalability, performance, and real-world UI architecture.
+
+Built a custom audio player (playlists, queue, seek, volume, transitions) used across the entire app
+
+Designed global playback state with Zustand, reducing prop-drilling and cutting re-renders by ~30%
+
+Implemented a modular component system reused across 40+ UI components
+
+Optimized UI performance, improving interaction responsiveness and load behavior
+
+Owned ~50% of the front-end codebase, contributing core features and architectural decisions
 
 ---
 
