@@ -66,18 +66,6 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 ---
 
-## What I Work On
-
-- Scalable front-end architecture and component-driven design  
-- Reusable UI systems and design system consistency  
-- Performance-aware rendering and state management  
-- Responsive and accessible interfaces  
-- Clean project structure and predictable data flow  
-- Bridging design intent with engineering constraints  
-- Collaboration through code reviews and shared ownership  
-
----
-
 ## Projects
 
 # 🎵 Music Streaming Web Application
