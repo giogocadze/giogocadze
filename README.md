@@ -66,6 +66,21 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 ---
 
+## Work Experience
+
+Front-End Developer
+
+Novatori – Digital Professions Academy (2024 – 2025)
+React · Next.js · JavaScript · SCSS
+
+- Shipped production front-end features in a Next.js codebase used by internal and student-facing platforms
+- Refactored legacy components to improve structure, performance, and long-term maintainability
+- Contributed reusable UI patterns and shared components, improving consistency across the platform
+- Worked in a PR-driven team workflow, implementing feedback and maintaining code quality
+
+
+---
+
 ## Projects
 
 # 🎵 Music Streaming Web Application
