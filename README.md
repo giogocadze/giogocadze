@@ -106,15 +106,6 @@ Tech: React, Next.js, TypeScript, Zustand, SCSS
 
 ---
 
-## Professional Values
-
-- Clean, readable code over clever solutions  
-- Predictable architecture and clear responsibility boundaries  
-- Reusability and consistency in UI components  
-- Performance as a feature, not an afterthought  
-- Clear communication and collaborative problem-solving  
-
----
 
 ## Activity 👾
 
