@@ -82,9 +82,6 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 
 # 🎵 Music Streaming Web Application
 
-Role: Front-End Developer
-Tech: React, Next.js, TypeScript, Zustand, SCSS
-
 - A Spotify-inspired music streaming platform built with a focus on scalability, performance, and real-world UI architecture
 - Built a custom audio player (playlists, queue, seek, volume, transitions) used across the entire app
 - Designed global playback state with Zustand, reducing prop-drilling and cutting re-renders by ~30%
