@@ -10,8 +10,6 @@
 
 ### Front-End Engineer | React & Next.js
 
-I build scalable, user-focused web and mobile interfaces with a strong emphasis on clean architecture, performance, and maintainable UI systems.
-
 ---
 
 ## About Me
