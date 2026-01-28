@@ -8,7 +8,7 @@
 
 # 👋 Hi, I’m Giorgi Gotsadze
 
-### Front-End Engineer | React & Next.js
+### Software & Mobile Developer
 
 ---
 
