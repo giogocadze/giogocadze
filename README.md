@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a Front-End & iOS Developer based in Tbilisi, Georgia, focused on building production-ready web and mobile applications using React, Next.js, and SwiftUI. My work centers on creating scalable front-end architectures, reusable component systems, and predictable state management that support long-term product growth.
+I am a Front-End & iOS Developer based in Tbilisi, Georgia, focused on building production-ready web and mobile applications using React, Next.js, and SwiftUI. My work centers on creating scalable front-end architectures  and predictable state management that support long-term product growth.
 
 I care deeply about UI/UX quality, accessibility, and performance, and I enjoy collaborating closely with designers and backend engineers to translate complex product requirements into clean, maintainable solutions. I continuously refine my skills through real-world projects and modern best practices.
 
