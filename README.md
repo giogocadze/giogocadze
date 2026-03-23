@@ -74,6 +74,15 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 - Worked in a PR-driven team workflow, implementing feedback and maintaining code quality
 
 
+<h3>Front-End Developer | Kinotech (Mar 2026 – Present) </h3>
+
+- Built and optimized high-converting landing pages using Next.js, increasing user engagement by **15–25%**
+- Developed dispatcher-facing web applications, reducing task completion time by **20%+** through improved UX flows
+- Created reusable UI components and patterns, accelerating development speed by **30%** across multiple pages
+- Improved page performance and load times by **25–40%** via code-splitting, lazy loading, and asset optimization
+- Collaborated in a PR-driven workflow, consistently delivering production-ready features with high code quality
+
+
 ---
 
 ## Projects
