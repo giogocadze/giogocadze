@@ -83,6 +83,21 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 - Collaborated in a PR-driven workflow, consistently delivering production-ready features with high code quality
 
 
+<h3> iOS Developer | Tourlify (Jun 2025 – Present) </h3>
+
+- Developed and launched a tourism iOS application using **SwiftUI**, enabling users to discover destinations, manage bookings, and explore local experiences (**~30% increase in user engagement**)
+
+- Built scalable and high-performance UI components, improving responsiveness and reducing screen load times by **~25%**
+
+- Integrated RESTful APIs for bookings, travel data, and user profiles, improving real-time synchronization and reducing latency by **~15%**
+
+- Implemented efficient image loading and caching strategies, reducing network requests by **~35%** and improving overall performance
+
+- Collaborated with product and design teams to deliver user-focused features, increasing retention by **~18%**
+
+- Identified and fixed performance bottlenecks, reducing crash rates by **~40%**
+
+
 ---
 
 ## Projects
