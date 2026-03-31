@@ -82,20 +82,19 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 - Improved page performance and load times by **25–40%** via code-splitting, lazy loading, and asset optimization
 - Collaborated in a PR-driven workflow, consistently delivering production-ready features with high code quality
 
+<h3> iOS & Frontend Developer | Tourlify (Jun 2025 – Present) </h3>
 
-<h3> iOS Developer | Tourlify (Jun 2025 – Present) </h3>
+- Developed and launched a tourism platform across **iOS (SwiftUI)** and **web (React/Next.js)**, enabling users to discover destinations, manage bookings, and explore experiences (**~30% increase in engagement**)
 
-- Developed and launched a tourism iOS application using **SwiftUI**, enabling users to discover destinations, manage bookings, and explore local experiences (**~30% increase in user engagement**)
-
-- Built scalable and high-performance UI components, improving responsiveness and reducing screen load times by **~25%**
+- Built scalable, high-performance UI components across mobile and web, improving responsiveness and reducing load times by **~25%**
 
 - Integrated RESTful APIs for bookings, travel data, and user profiles, improving real-time synchronization and reducing latency by **~15%**
 
-- Implemented efficient image loading and caching strategies, reducing network requests by **~35%** and improving overall performance
+- Optimized frontend performance with efficient data fetching, image loading, and caching strategies, reducing network requests by **~35%**
 
-- Collaborated with product and design teams to deliver user-focused features, increasing retention by **~18%**
+- Collaborated with product and design teams to deliver user-focused features across platforms, increasing retention by **~18%**
 
-- Identified and fixed performance bottlenecks, reducing crash rates by **~40%**
+- Identified and resolved performance bottlenecks across mobile and frontend layers, reducing crash rates and UI issues by **~40%**
 
 
 ---
