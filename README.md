@@ -121,7 +121,6 @@ I care deeply about UI/UX quality, accessibility, and performance, and I enjoy c
 - Built a usage analytics dashboard, exposing execution and activity metrics to guide feature and pricing decisions
 - Implemented Free & Pro subscription tiers, gating advanced features and increasing monetization readiness
 - Designed real-time data flows to support scalable usage growth and low-latency updates as user activity increases
-
 ---
 
 
