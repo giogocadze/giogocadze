@@ -19,7 +19,6 @@ I am a Front-End & iOS Developer based in Tbilisi, Georgia, focused on building 
 I care deeply about UI/UX quality, accessibility, and performance, and I enjoy collaborating closely with designers and backend engineers to translate complex product requirements into clean, maintainable solutions. I continuously refine my skills through real-world projects and modern best practices.
 
 <br clear="right"/>
-
 ---
 
 ## Tech Stack
